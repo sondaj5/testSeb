@@ -31,6 +31,6 @@ public class FirstFragment extends Fragment {
         wv.getSettings().setJavaScriptEnabled(true);
         wv.getSettings().setRenderPriority(WebSettings.RenderPriority.HIGH);
         wv.getSettings().setAppCacheEnabled(true);
-        wv.loadUrl("https://software.infrontservices.com/seb/SDKsearchTest.html");
+        wv.loadUrl("https://software.infrontservices.com/seb/SDKsearchTest2.html");
     }
 }
